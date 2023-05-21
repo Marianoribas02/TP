@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1684694372 source:c:\tpinte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
